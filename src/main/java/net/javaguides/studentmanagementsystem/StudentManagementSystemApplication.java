@@ -19,6 +19,9 @@ public class StudentManagementSystemApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
+		// Initial creation of student objects to test the repository and adding of data
+		// to the repository
+
 //		Student student1 = new Student("Ramesh", "Fadatare","ramesh@gmail.com");
 //		studentRepository.save(student1);
 //
